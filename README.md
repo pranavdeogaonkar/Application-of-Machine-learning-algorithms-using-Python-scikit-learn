@@ -1,0 +1,2 @@
+# Application-of-Machine-learning-algorithms-using-Python-scikit-learn
+In this Project, dataset on Green House Gas(GHG) emissions is retrieved from EU Portal. Multiple Supervised regression algorithms are applied to predict green house gas emissions specifically in 2017. Also, various machine learning algorithms are compared based on evaluation metrics and time complexity. Thus, insights for stakeholders/non-technical audience are generated after prediction.
